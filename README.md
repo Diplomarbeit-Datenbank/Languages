@@ -26,14 +26,14 @@ Eine Library, um am tkinter Fenster und im Terminal mehr als eine Sprache darzus
     Main:
     
     def main():
-    """
-    : this is only to test the software
-    """
-    lang = Language('example_text_file.txt', language='german')
-    print(lang.refactor_data)
-    print(lang.refactor('sun'))
+        """
+        : this is only to test the software
+        """
+        lang = Language('example_text_file.txt', language='german')
+        print(lang.refactor_data)
+        print(lang.refactor('sun'))
 
-    return 0
+        return 0
     
                       
     
