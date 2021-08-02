@@ -1,0 +1,9 @@
+#german
+Weather forecast=Wetter Vorhersage
+sun=Sonnig
+partly cloudy=Teilweise Bewölkt
+
+#spain
+Weather forecast=Pronóstico del tiempo
+sun=Soleado
+partly cloudy=Parcialmente nublado
