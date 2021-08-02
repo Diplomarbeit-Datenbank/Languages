@@ -1,5 +1,6 @@
 # Languages
-![image](https://user-images.githubusercontent.com/87471423/127837693-323be4a2-84ce-4f3b-ac53-58677cc2cc97.png)
+![image](https://user-images.githubusercontent.com/87471423/127837904-aa31c64f-ab59-4ca8-aef3-01c12f8b5212.png)
+
 
 
 Eine Library, um am tkinter Fenster und im Terminal mehr als eine Sprache darzustellen
