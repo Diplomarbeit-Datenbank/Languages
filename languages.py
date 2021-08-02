@@ -143,9 +143,9 @@ def main():
 
     : this is only to test the software
     """
-    lang = Language('languages_test_file.txt', language='german')
+    lang = Language('example_text_file.txt', language='german')
     print(lang.refactor_data)
-    print(lang.refactor('shit'))
+    print(lang.refactor('shun'))
 
     return 0
 
