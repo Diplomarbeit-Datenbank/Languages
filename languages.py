@@ -23,7 +23,7 @@ from inspect import currentframe
 from termcolor import colored
 
 try:
-    from lib.basics.encode import Encode_umlauts
+    from encode import Encode_umlauts
 except ModuleNotFoundError:
     raise ModuleNotFoundError('Module encode is not in directory: .../lib/basics/encode.py')
 
