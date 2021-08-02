@@ -14,5 +14,12 @@ Eine Library, um am tkinter Fenster mehr als eine Sprache darzustellen
                       -> pip install termcolor
     o Encode_umlauts: -> Für auslesen von Umlauten aus einem Text Dokument
                       -> Beschreibung unter follgendem Link:
+
+## Verwendung:
+    -> Einfach starten des main Programms im File: languages.py und schon hat man ein
+       ausführliches beispiel der Funktionen parat.
+    
+    Main:
+    
                       
     
