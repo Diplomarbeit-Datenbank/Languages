@@ -145,7 +145,7 @@ def main():
     """
     lang = Language('example_text_file.txt', language='german')
     print(lang.refactor_data)
-    print(lang.refactor('shun'))
+    print(lang.refactor('sun'))
 
     return 0
 
