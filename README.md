@@ -15,7 +15,7 @@ Eine Library, um am tkinter Fenster und im Terminal mehr als eine Sprache darzus
     o termcolor:      -> Für angabe der Warnungen in gelb auf der Konsolo und rot für Fehler
                       -> pip install termcolor
     o Encode_umlauts: -> Für auslesen von Umlauten aus einem Text Dokument
-                      -> Beschreibung unter follgendem Link:
+                      -> Beschreibung unter follgendem Link: https://github.com/Diplomarbeit-Datenbank/Encode_Umlauts
 
 ## Verwendung:
     -> Einfach starten des main Programms im File: languages.py und schon hat man ein
