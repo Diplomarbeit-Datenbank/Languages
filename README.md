@@ -6,22 +6,24 @@
 Eine Library, um am tkinter Fenster und im Terminal mehr als eine Sprache darzustellen
 
 ## Funktionen:
-    o Ausgabe präzieser Warnungen und Fehler bei verwendung der Library
+    o Ausgabe präziser Warnungen und Fehler bei Verwendung der Library
     o Ermöglicht es durch die Funktion refactor() strings in andere Sprachen zu konvertieren
-    o Einfache ausbesserung von Rechtschreibfehlern durch änderung des text Dokumentes
+    o Einfache Ausbesserung von Rechtschreibfehlern durch Änderung des Text Dokumentes
     o Einfaches hinzufügen weiterer Sprachen
 
+
 ## Benötigte Librarys:
-    o inspect:        -> Für genaue angabe der Zeile, aus der die angegebene Warnung entspringt
+    o inspect:        -> Für genaue Angabe der Zeile, aus der die angegebene Warnung entspringt
                       -> pip install inspect
-    o termcolor:      -> Für angabe der Warnungen in gelb auf der Konsolo und rot für Fehler
+    o termcolor:      -> Für angabe der Warnungen in Gelb auf der Konsole und rot für Fehler
                       -> pip install termcolor
     o Encode_umlauts: -> Für auslesen von Umlauten aus einem Text Dokument
-                      -> Beschreibung unter follgendem Link: https://github.com/Diplomarbeit-Datenbank/Encode_Umlauts
+                      -> Beschreibung unter folgendem Link: https://github.com/Diplomarbeit-Datenbank/Encode_Umlauts
+
 
 ## Verwendung:
     -> Einfach starten des main Programms im File: languages.py und schon hat man ein
-       ausführliches beispiel der Funktionen parat.
+       ausführliches Beispiel der Funktionen parat.
     
     Main:
     
