@@ -21,7 +21,7 @@ Eine Library, um am tkinter Fenster und im Terminal mehr als eine Sprache darzus
                       -> Beschreibung unter folgendem Link: https://github.com/Diplomarbeit-Datenbank/Encode_Umlauts
 
 
-## Verwendung:
+## Entwickler Verwendung:
     -> Einfach starten des main Programms im File: languages.py und schon hat man ein
        ausführliches Beispiel der Funktionen parat.
     
@@ -36,6 +36,14 @@ Eine Library, um am tkinter Fenster und im Terminal mehr als eine Sprache darzus
         print(lang.refactor('sun'))
 
         return 0
+
+## Eigenschaften:
+    o Copyright Christof Haidegger
+    o Erstellt von Christof Haidegger
+    o Debugging von Christof Haidegger
+    
+    o Geschriebene Zeilen in Python-Code: 155
+    o Geschriebene Zeilen in README-Code: 50
     
                       
     
