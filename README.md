@@ -15,9 +15,9 @@ Eine Library, um am tkinter Fenster und im Terminal mehr als eine Sprache darzus
 ## Benötigte Librarys:
     o inspect:        -> Für genaue Angabe der Zeile, aus der die angegebene Warnung entspringt
                       -> pip install inspect
-    o termcolor:      -> Für angabe der Warnungen in Gelb auf der Konsole und rot für Fehler
+    o termcolor:      -> Für Angabe der Warnungen in Gelb auf der Konsole und rot für Fehler
                       -> pip install termcolor
-    o Encode_umlauts: -> Für auslesen von Umlauten aus einem Text Dokument
+    o Encode_umlauts: -> Für Auslesen von Umlauten aus einem Text Dokument
                       -> Beschreibung unter folgendem Link: https://github.com/Diplomarbeit-Datenbank/Encode_Umlauts
 
 
